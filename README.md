@@ -1,6 +1,6 @@
 # raulmatias.github.io
 
-My personal website, at [raulmatias.github.io](http://www.raulmatias.github.io).
+My personal website, at [raulmatias.github.io](https://raulmatias.github.io).
 
 Forked from [Marc Khouri](https://github.com/mnkhouri/mnkhouri.github.io)
 
