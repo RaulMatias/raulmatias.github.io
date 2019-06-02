@@ -13,7 +13,6 @@ March 2018 - May 2019
 >Ubiquiti Networks is a global leader in network technology, with over 85 million devices in 200+ countries, and a diverse product line including security cameras, networking products, and IT software services.
 
 #### Software Developer, Backend
-March 2018 - May 2019
 * Developed translation layers between 10+ third-party APIs (Nest, Hue, Sonos) and internal APIs using a mix of proprietary and standardized protocols including OAuth and JSON APIs (using both HTTP(S)/REST and WebSockets).
 * Maintained and extended a large (200k+ LoC) modern python codebase, using aiohttp, asyncio, and other libraries.
 * Wrote internal transition layers to integrate connected devices over various TCP/UDP protocols, such as SSDP and raw sockets.
