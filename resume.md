@@ -9,15 +9,18 @@ sitemap:
 # Experience
 
 ## UBIQUITI NETWORKS
+March 2018 - May 2019
 >Ubiquiti Networks is a global leader in network technology, with over 85 million devices in 200+ countries, and a diverse product line including security cameras, networking products, and IT software services.
 
 #### Software Developer, Backend
+March 2018 - May 2019
 * Developed translation layers between 10+ third-party APIs (Nest, Hue, Sonos) and internal APIs using a mix of proprietary and standardized protocols including OAuth and JSON APIs (using both HTTP(S)/REST and WebSockets).
 * Maintained and extended a large (200k+ LoC) modern python codebase, using aiohttp, asyncio, and other libraries.
 * Wrote internal transition layers to integrate connected devices over various TCP/UDP protocols, such as SSDP and raw sockets.
 * Led integrations with senior engineering counterparts at companies such as Lutron and iRobot, to develop custom integrations of products.
 
 ## WINK
+November 2014 - March 2018
 >Wink is the largest DIY smart home platform, with over 3 million connected devices, enabling hundreds of thousands of active users to easily monitor, control, and automate their homes with one simple intuitive app.
 
 #### Head of Quality Assurance
@@ -35,6 +38,7 @@ sitemap:
 * Built dashboard using Ruby on Rails to display analytics, track quality, and assign tasks, which saved the team 15 hours per week.
 
 ## PUBLICSTUFF
+January 2014 - November 2014
 >PublicStuff is a digital communications system that drives positive change by allowing residents to submit real-time requests to their local government.
 
 #### Software Engineer
